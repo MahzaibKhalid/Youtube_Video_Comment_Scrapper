@@ -5,6 +5,6 @@ I have shared the way how to scrape YouTube video comments, you can use web scra
 [Click Here](https://codewithmahzaib.blogspot.com/).
 
 
-<img src="[https://your-image-url.type](https://user-images.githubusercontent.com/100717238/230759962-d858457a-14dd-431d-9e6b-fb6b39663f60.png)" width="100" height="100">
+<img src="[https://your-image-url.type](https://user-images.githubusercontent.com/100717238/230759962-d858457a-14dd-431d-9e6b-fb6b39663f60.png)" width="200" height="200">
 
-![Scrape YouTube Video Comments with Python and store in csv file](https://user-images.githubusercontent.com/100717238/230759962-d858457a-14dd-431d-9e6b-fb6b39663f60.png)
+![Scrape YouTube Video Comments with Python and store in csv file](https://user-images.githubusercontent.com/100717238/230759962-d858457a-14dd-431d-9e6b-fb6b39663f60.png = 250x250)
